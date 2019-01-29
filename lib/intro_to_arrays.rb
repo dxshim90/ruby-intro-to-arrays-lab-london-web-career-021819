@@ -8,6 +8,4 @@ end
 
 def first_element(array)
   array.first
-  array(2)
-  array.last
 end
