@@ -10,3 +10,4 @@ def first_element(array)
   array(0)
   array(2)
   array.last
+end
