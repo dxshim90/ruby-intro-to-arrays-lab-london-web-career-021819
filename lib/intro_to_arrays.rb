@@ -26,5 +26,8 @@ def last_elemet_with_array_methods(array)
   array.last
 end
 
+def array(array)
+  array.length
+end
   
   
