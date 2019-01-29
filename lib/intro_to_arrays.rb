@@ -1,3 +1,3 @@
 def arry
-  ary = array.new
+  ary = Array.new
 end
